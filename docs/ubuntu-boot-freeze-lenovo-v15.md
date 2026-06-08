@@ -8,7 +8,7 @@ System Information
 
 - Device: Lenovo V15 G2 ITL
 - BIOS Version: GGCN61WW
-- Operating System: Ubuntu 22.04 LTS
+- Operating System: Ubuntu 24.04.5 LTS
 - Installation Type: Dual Boot (Windows + Ubuntu)
 
 Problem
@@ -28,7 +28,6 @@ The following troubleshooting steps were performed:
 - BIOS inspection
 - Memory testing
 - Live USB testing
-- Alternative Linux distribution testing
 - Kernel parameter experimentation
 
 Tested parameters:
@@ -37,7 +36,8 @@ Tested parameters:
 - acpi=off
 - noapic
 
-None of the above resolved the issue.
+None of the above resolved the issue but this one : 
+- irqpoll acpi-osi=! acpi-osi="Windows 2020"
 
 Solution
 
