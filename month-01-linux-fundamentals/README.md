@@ -11,3 +11,7 @@ Goals
 Daily Reports
 
 - Day 01 - Ubuntu Installation & Basic Commands
+- Day 02 
+Focused on file and directory management in Linux.
+
+
