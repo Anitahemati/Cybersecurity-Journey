@@ -19,4 +19,7 @@ Daily Reports
 - Day 03
 - Search and Inspection Commands
 
+- Day 04
+- Permissions and Access Control
+
 
