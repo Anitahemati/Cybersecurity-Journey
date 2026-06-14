@@ -22,4 +22,7 @@ Daily Reports
 - Day 04
 - Permissions and Access Control
 
+- Day 05
+- Users, Groups & sudo
+
 
