@@ -6,8 +6,8 @@ Learning Linux, Python, Networking and Application Security.
 
 - docs
 - month-01-linux-fundamentals
-- month-02-networking
-- month-03-python
+- month-02-linux foundations + Git
+- month-03-networking fundamentals 
 
 ## Progress
 
