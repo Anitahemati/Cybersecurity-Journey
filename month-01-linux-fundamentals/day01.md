@@ -1,4 +1,4 @@
-Linux Day 1
+##Linux Day 1
 
 pwd -> current directory
 
