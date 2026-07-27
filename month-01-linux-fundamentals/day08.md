@@ -1,6 +1,6 @@
-Linux Day 8 
+# Linux Day 8 
 
-Topics Covered
+# Topics Covered
 
 - Shell and Bash
 - PATH Environment Variable
@@ -10,7 +10,7 @@ Topics Covered
 - Aliases
 - Introduction to .bashrc
 
-Commands Practiced
+# Commands Practiced
 
 echo $USER
 echo $HOME
@@ -34,7 +34,7 @@ alias ll="ls -la"
 alias
 unalias ll
 
-Key Takeaways
+# Key Takeaways
 
 - Bash is a shell that interprets and executes commands.
 - PATH determines where executable files are searched for.
