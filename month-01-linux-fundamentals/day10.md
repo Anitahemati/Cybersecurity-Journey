@@ -1,5 +1,5 @@
-#Linux Day 10
-##Topic
+# Linux Day 10
+## Topic
 File Permissions
 
 -chmod changes file permissions.
@@ -8,7 +8,7 @@ File Permissions
 -chown changes the file owner.
 -chgrp changes the file group.
 
-##Commands
+## Commands
 
 chmod
 chown
@@ -17,7 +17,7 @@ type
 which
 ls -l
 
-##German Vocabulary
+## German Vocabulary
 -Berechtigung
 -Dateibesitzer
 -Gruppe
