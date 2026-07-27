@@ -12,7 +12,7 @@ cp file1.txt backup/
 Used to move files/directories or rename them.
 
 Examples:
-mv file.txt backup/
+mv file.txt backup/ 
 mv file.txt newfile.txt
 
 ### rm
