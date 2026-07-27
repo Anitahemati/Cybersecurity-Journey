@@ -3,7 +3,7 @@
 ## Topics
 - Processes
 - PID 
-- ps
+- ps 
 - top
 - kill
 - sleep
