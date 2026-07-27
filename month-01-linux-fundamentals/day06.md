@@ -4,7 +4,7 @@
 
 Learned Linux pipes and redirection.
 
-## Commands Learned
+## Commands Learned 
 
 - echo
 - wc
