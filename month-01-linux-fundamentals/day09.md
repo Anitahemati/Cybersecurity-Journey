@@ -9,7 +9,7 @@
 - group management
 
 ## Commands
-whoami
+whoami 
 id
 groups
 adduser
