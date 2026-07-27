@@ -9,7 +9,7 @@ Learn basic commands for searching and inspecting files in Linux.
 ### grep
 Search for specific text inside files.
 
-Example:
+Example: 
 grep "failed" logs.txt
 
 ### find
