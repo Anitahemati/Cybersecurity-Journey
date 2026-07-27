@@ -3,7 +3,7 @@
 ## Objective
 
 Learned about Linux users, groups, and sudo.
-
+ 
 ## Commands Learned
 
 - whoami
