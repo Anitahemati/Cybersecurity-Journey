@@ -1,6 +1,6 @@
 # Linux Day 02
 
-## Commands Learned
+## Commands Learned 
 
 ### cp
 Used to copy files and directories.
