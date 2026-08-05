@@ -1,38 +1,15 @@
-Month 01 - Linux Fundamentals
+# Month 01 - Linux Fundamentals
 
-Goals
+## Goals
 
-- Learn Linux terminal
-- Learn filesystem navigation
-- Learn file permissions
-- Learn processes and services
-- Learn basic networking commands
+- Filesystem
+- Navigation
+- File Management
+- Search and Permissions(User, Groups, sudo)
+- Process, Pipes and Redirection
+- Text Processing(grep,awk,sed)
+- Env Variables, PATH, Alias
+- Bash Basics and Scripting Basics
 
-
-Daily Reports
-
-- Day 01
-- Navigation Commands
-
-- Day 02 
-- File Management Commands
-
-- Day 03
-- Search and Inspection Commands
-
-- Day 04
-- Permissions and Access Control
-
-- Day 05
-- Users, Groups & sudo
-
-- Day 06
-- Pipes and Redirection
-
-- Day 07
-- Processes
-
-- Day 08
-- Shell,Bash,PATH,Environment Variables 
 
 
