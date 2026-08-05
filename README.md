@@ -1,4 +1,4 @@
-#AppSec Journey
+# AppSec Journey
 
 ## Repository Structure
 
@@ -11,10 +11,11 @@
 - Month-06-Web-Security
 - Month-07-Web-Security-Advanced
 - Month-08-Security-Tools
-- Month-09-ASPNET-Core
-- Month-10-Secure-Coding
-- Month-11-Secure-Task-Manager-API
-- Month-12-Web-Security-Scanner
+- Month-09-Cloud-Security
+- Month-10-ASP.NET-Core-Basics
+- Month-11-Secure-Coding
+- Month-12-Secure-Task-Manager-API
+- Month-13-Web-Security-Scanner
 
 ## Progress
 
